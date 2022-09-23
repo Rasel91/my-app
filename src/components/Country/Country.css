@@ -1,0 +1,11 @@
+
+.country{
+    background-color: rgb(6, 130, 137);
+    border: 5px solid saddlebrown;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px;
+  }
+  .country img{
+    width: 150px;
+  }
